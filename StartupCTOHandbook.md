@@ -1,20 +1,14 @@
-﻿**THEStartup**
+﻿# THE START UP CTO's HANDBOOK
 
-**’s**
+#### ESSENTIAL SKILLS AND BEST PRACTICES FOR HIGH PERFORMING ENGINEERING TEAMS
 
-**CTO**
-
-**Handbook**
-
-**ESSENTIAL SKILLS AND BEST PRACTICES FOR HIGH PERFORMING ENGINEERING TEAMS**
-
-**ZACH GOLDBERG**
+## ZACH GOLDBERG
 
 ![](Aspose.Words.c0fb453a-4739-4f68-a086-b13e34f7d5d9.001.png)
 
 **Disclaimer**: 
 
-` `e publisher and the author make no representations or warranties of any kind with respect to this book or its contents, and assume no responsibility for errors, inaccuracies, omissions, or any other inconsistencies herein. 
+` `The publisher and the author make no representations or warranties of any kind with respect to this book or its contents, and assume no responsibility for errors, inaccuracies, omissions, or any other inconsistencies herein. 
 
 At the time of publication, the URLs displayed in this book refer to existing websites owned by the author and/or the author s affiliates. WorldChangers Media is not responsible for, nor should be deemed to endorse or recommend, these websites; nor is it responsible for any website content other than its own, or any content available on the Internet not created by WorldChangers Media. 
 
